@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "nombre": "Arroz",
+      "precio": 200,
+      "categoria": 1,
+      "descripcion": "Almacen",
+      "cantidad": 1,
+      "img": "./public/images/arroz.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Fideos",
+      "precio": 250,
+      "categoria": 1,
+      "descripcion": "Almacen",
+      "cantidad": 1,
+      "img": "./public/images/fideos.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Papel higienico",
+      "precio": 500,
+      "categoria": 3,
+      "descripcion": "Perfumeria",
+      "cantidad": 1,
+      "img": "./public/images/papel-higienico.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Gaseosa",
+      "precio": 450,
+      "categoria": 1,
+      "descripcion": "Almacen",
+      "cantidad": 1,
+      "img": "./public/images/gaseosa.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Queso",
+      "precio": 1300,
+      "categoria": 2,
+      "descripcion": "Lacteos",
+      "cantidad": 1,
+      "img": "./public/images/queso.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Leche",
+      "precio": 210,
+      "categoria": 2,
+      "descripcion": "Lacteos",
+      "cantidad": 1,
+      "img": "./public/images/leche.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Desodorante",
+      "precio": 720,
+      "categoria": 3,
+      "descripcion": "Perfumeria",
+      "cantidad": 1,
+      "img": "./public/images/desodorante.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Yogurt",
+      "precio": 480,
+      "categoria": 2,
+      "descripcion": "Lacteos",
+      "cantidad": 1,
+      "img": "./public/images/yogurt.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Manteca",
+      "precio": 450,
+      "categoria": 2,
+      "descripcion": "Lacteos",
+      "cantidad": 1,
+      "img": "./public/images/manteca.jpg"
+    }
+  ]
